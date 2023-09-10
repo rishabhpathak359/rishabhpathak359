@@ -27,7 +27,7 @@
 
 <img align="right" height="186" width="186" src="https://media.tenor.com/nVnp3AebrakAAAAC/l-death-note-death-note.gif"  />
 
-<p align="left">I'm from Lucknow,UttarPradesh<br><br>- 🔭 Pursuing my Btech. in Electrical Engineering from National Institute Of Technology,Raipur<br>- 📚 I'm currently learning DSA<br>- ⚡ In my free time you'll find me either coding some stuff or editing some videos</p>
+<p align="left">I'm  a skillfull errormaker😎 who believes where there are humans involved there are errors involved.<br><br>- 🔭 Pursuing my Btech. in Electrical Engineering from National Institute Of Technology,Raipur<br>- 📚 I'm currently learning DSA & WebDev<br>- ⚡ In my free time you'll find me either coding some stuff or editing some videos</p>
 
 ###
 <br></br>
