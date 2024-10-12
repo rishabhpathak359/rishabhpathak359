@@ -31,6 +31,9 @@
 
 ###
 <br></br>
+[![An image of @rishabhpathak359's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rishabhpathak359)](https://holopin.io/@rishabhpathak359)
+<br></br>
+###
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
