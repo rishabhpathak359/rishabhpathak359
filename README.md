@@ -6,7 +6,7 @@
 
 <div align="center">
  <a href='https://www.linkedin.com/in/rishabh-pathak-634078250'> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <a href='https://www.youtube.com/@rishabhog9909/featured'> <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+<!--   <a href='https://www.youtube.com/@rishabhog9909/featured'> <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  /> -->
  <a href="https://www.instagram.com/rishbaskarabh_359/"> <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=pink&logoColor=black&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
 </div>
 
@@ -81,26 +81,50 @@
 </div>
 
 ###
-<h1 align="center">Thanks for visiting my profile</h1>
 
-<h4 align="center">Do checkout my social media handles as well</h4>
+## Thanks for visiting
 
-###
+<p align="center"> 
+<img src="https://profile-counter.glitch.me/rishabhpathak359/count.svg">
 
+Counting of visitors to this page in this section started from Nov 9, 2024
+
+<a href="https://info.flagcounter.com/1JZL"><img src="https://s11.flagcounter.com/count2/1JZL/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+
+
+
+### 📈 GitHub Activity Graph:
+
+<!-- Green snake graph -->
+![rishabhpathak359's github activity graph](https://raw.githubusercontent.com/rishabhpathak359/rishabhpathak359/output/github-contribution-grid-snake.svg)
+
+<!-- Stats and languages -->
+| .                                                                                                                                                          | .                                                                                                                                            |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![rishabhpathak359's github stats](https://github-readme-stats.vercel.app/api?username=rishabhpathak359&show_icons=true&theme=radical&include_all_commits=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhpathak359&theme=radical&layout=compact) |
+
+<!-- Streak stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhpathak359"></img>
+
+<!-- Dark snake graph -->
+![rishabhpathak359's github activity graph (dark mode)](https://raw.githubusercontent.com/rishabhpathak359/rishabhpathak359/output/github-contribution-grid-snake-dark.svg)
+
+<!-- Profile animation (green) -->
+![](./profile-3d-contrib/profile-green-animate.svg)
+
+<!-- CodersRank Top Skills Summary -->
+<img src="https://cr-summary-widget.azurewebsites.net/api/api?username=rishabhpathak359&show-other-skills=true" width="auto"></img>
+
+<!-- CodersRank 2D Skills Chart -->
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=rishabhpathak359&show-other-skills=true" width="auto"></img>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/rishabh-pathak-634078250" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="79" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.youtube.com/@rishabhog9909/featured" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="79" height="40" alt="youtube logo"  />
-  </a>
-  <a href="https://www.instagram.com/rishbaskarabh_359/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="79" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://telegram.me/rishbaskarabh" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="79" height="40" alt="telegram logo"  />
-  </a>
+<summary>Trophy: Github Profile Trophy</summary>
 </div>
+
+<p align="center"> 
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishabhpathak359" alt="rishabhpathak359" /></a>
+</p>
+
 
 ###
