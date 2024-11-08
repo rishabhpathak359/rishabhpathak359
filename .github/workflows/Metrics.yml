@@ -54,12 +54,6 @@ jobs:
           plugin_skyline_frames: 120
           plugin_skyline_quality: 1
 
-          # Remove Stargazers Analysis Section
-          plugin_stargazers: no
-
-          # Support (Sponsorship) Section
-          plugin_support: yes
-
           # Topics Used in Repositories (Icons Mode)
           plugin_topics: yes
           plugin_topics_limit: 0
