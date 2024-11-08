@@ -122,4 +122,6 @@ Counting of visitors to this page in this section started from Nov 9, 2024
 </p>
 
 
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
+
 ###
