@@ -18,14 +18,14 @@ jobs:
           # Basic Configurations
           template: classic
           base: header, activity, community, repositories, metadata  # Basic profile info
-          config_timezone: America/New_York  # Adjust to your timezone
+          config_timezone: Asia/Kolkata  # Adjusted to India timezone
 
           # Plugin Settings
           plugin_introduction: yes  # Show general account information
 
           # Activity Calendar in 3D Isometric View
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+          plugin_isocalendar_duration: 2y  # Show calendar for 2 years
 
           # Programming Languages Stats
           plugin_languages: yes
@@ -54,9 +54,8 @@ jobs:
           plugin_skyline_frames: 120
           plugin_skyline_quality: 1
 
-          # Stargazers Analysis (Smooth Chartist Lines)
-          plugin_stargazers: yes
-          plugin_stargazers_charts_type: chartist
+          # Remove Stargazers Analysis Section
+          plugin_stargazers: no
 
           # Support (Sponsorship) Section
           plugin_support: yes
