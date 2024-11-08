@@ -110,13 +110,8 @@ Counting of visitors to this page in this section started from Nov 9, 2024
 ![rishabhpathak359's github activity graph (dark mode)](https://raw.githubusercontent.com/rishabhpathak359/rishabhpathak359/output/github-contribution-grid-snake-dark.svg)
 
 <!-- Profile animation (green) -->
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
-<!-- CodersRank Top Skills Summary -->
-<img src="https://cr-summary-widget.azurewebsites.net/api/api?username=rishabhpathak359&show-other-skills=true" width="auto"></img>
-
-<!-- CodersRank 2D Skills Chart -->
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=rishabhpathak359&show-other-skills=true" width="auto"></img>
 
 <div align="center">
 <summary>Trophy: Github Profile Trophy</summary>
