@@ -20,8 +20,8 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name rishabhpathak359
+          git config user.email rishabh09p@gmail.com
           git add -A
           git commit -m "Generated 3D contribution graph"
-          git push -u "https://${{ secrets.GH_TOKEN }}@github.com/${{ github.repository }}" HEAD:main
+          git push 
