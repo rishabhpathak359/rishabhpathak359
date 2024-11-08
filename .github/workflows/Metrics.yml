@@ -37,7 +37,7 @@ jobs:
 
           # Activity Calendar over the Years
           plugin_calendar: yes
-          plugin_calendar_limit: 11
+          plugin_calendar_limit: 2
 
           # Habits & Weekly Activity Analysis
           plugin_habits: yes
